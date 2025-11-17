@@ -9,19 +9,19 @@ public class Persona {
         this.edad = edad;
     }
 
-    public String getNombre() {
+    public String getName() {
         return nombre;
     }
 
-    public void setNombre(String nombre) {
+    public void setName(String nombre) {
         this.nombre = nombre;
     }
 
-    public int getEdad() {
+    public int getAge() {
         return edad;
     }
 
-    public void setEdad(int edad) {
+    public void setAge(int edad) {
         this.edad = edad;
     }
 
